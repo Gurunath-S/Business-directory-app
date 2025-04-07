@@ -1,0 +1,2 @@
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY="yoy clerk api key "
+CLERK_API_URL=https://api.clerk.dev
